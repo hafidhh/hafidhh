@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revoxhere" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=revoxhere&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hafidh7&show_icons=true" />
