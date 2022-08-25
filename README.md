@@ -1,7 +1,7 @@
-<h2 align="center">👋 Hello! I'm Hafidh</h2>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/hafidh7" alt="profile views">  
-</p>
+<div align='center'>
+# 👋 Hello! I'm Hafidh</h2>  
+<img src="https://gpvc.arturio.dev/hafidh7" alt="profile views">  
+</div>
 
 ---
 
