@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Hafidh.</h2>
+<h2 align="center">👋 Hello! I'm Hafidh</h2>
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views">  
 </p>
