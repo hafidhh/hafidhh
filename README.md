@@ -2,6 +2,7 @@
   
   
   # 👋 Hello! I'm Hafidh  
+  [![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the badge&logo=github&logoColor=white)](https://github.com/hafidh7/hafidh7/discussions/new?category=ask-me-anything)
   <img src="https://gpvc.arturio.dev/hafidh7" alt="profile views"> 
   
 </div>
