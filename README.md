@@ -1,5 +1,5 @@
 <div align='center'>
-# 👋 Hello! I'm Hafidh</h2>  
+# 👋 Hello! I'm Hafidh 
 <img src="https://gpvc.arturio.dev/hafidh7" alt="profile views">  
 </div>
 
