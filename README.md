@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Hafidh</h2>
 <p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views">  
+  <img src="https://gpvc.arturio.dev/hafidh7" alt="profile views">  
 </p>
 
 ---
