@@ -12,8 +12,10 @@
 ---
 
 <p align="center">
+  
   [![Hafidh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=vue-dark&hide_langs_below=1&layout=compact&line_height=31)](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=vue-dark&hide_langs_below=1&layout=compact)
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=hafidh7&count_private=true&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=hafidh7&count_private=true&show_icons=true&theme=vue-dark)
+  
 </p>
   
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=hafidh7&count_private=true&show_icons=true&theme=vue-dark&line_height=31" alt="hafidh7 github stats"/>
