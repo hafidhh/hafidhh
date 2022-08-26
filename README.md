@@ -14,7 +14,7 @@
 <p align="center">
   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=vue-dark&hide_langs_below=1&layout=compact">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=vue-dark&hide_langs_below=1&layout=compact" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=vue-dark&hide_langs_below=1&layout=compact" />
   </a>
   
   <a href="https://github-readme-stats.vercel.app/api?username=hafidh7&count_private=true&show_icons=true&theme=vue-dark">
