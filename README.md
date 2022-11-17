@@ -11,10 +11,10 @@
 ---
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=transparent&hide_langs_below=1&layout=compact">
-  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=transparent&hide_langs_below=1&layout=compact" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=transparent&hide_langs_below=1&layout=compact&hide_border=true">
+  <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidh7&count_private=true&theme=transparent&hide_langs_below=1&layout=compact&hide_border=true" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=hafidh7&count_private=true&show_icons=true&theme=transparent">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hafidh7&show_icons=true&count_private=true&theme=transparent" />
+  <a href="https://github-readme-stats.vercel.app/api?username=hafidh7&count_private=true&show_icons=true&theme=transparent&hide_border=true">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hafidh7&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
   </a>
 </p>
