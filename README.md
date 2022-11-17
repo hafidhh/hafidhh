@@ -18,7 +18,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hafidh7&show_icons=true&count_private=true&theme=vue-dark" />
   </a>
 </p>
-
-
-  
-  
