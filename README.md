@@ -4,7 +4,7 @@
 
   [![Hafidh - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/hafidhh/hafidhh/discussions/new?category=ask-me-anything)
 
-  <img src="https://gpvc.arturio.dev/hafidhh" alt="profile views">
+  <img src="https://enq4ie6l59nzjcc.m.pipedream.net" alt="profile views">
 
 </div>
 
